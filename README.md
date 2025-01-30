@@ -1,4 +1,4 @@
-# Zomato-Restaurant-Aggregation-Project
+# Zomato-Restaurant-Project
 Hello everyone 👋 Exciting News! 🚀
 
 I'm very excited to share my Zomato Power BI Project on LinkedIn.
